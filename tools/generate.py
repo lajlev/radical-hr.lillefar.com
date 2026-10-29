@@ -44,9 +44,10 @@ IDEAS = {
     "applicant": "A smug manager holds up a glowing resume with five gold stars and a photo of an impossibly "
                  "perfect young genius, showing it to a nervous employee at her desk who is sweating and "
                  "clutching her coffee mug.",
-    "christmas": "A beaming manager in a Santa hat stands next to a Christmas tree, holding a big check that "
-                 "reads '+0.5%'. Behind him a 'FAMILY CHRISTMAS PARTY' banner is being torn down. "
-                 "Small children look on in tears.",
+    "christmas": "A festive company Christmas party in the office, decorated with a tree and tinsel. A beaming "
+                 "manager in a Santa hat welcomes a queue of visibly nervous male employees in suits toward a "
+                 "doctor in a white coat holding a giant pair of scissors. A banner reads 'XMAS SNIP PARTY' and "
+                 "a sign reads 'GROUP DISCOUNT'. Each man in the queue clutches a pay slip reading '+RAISE'.",
     "afternoon": "A cheerful open-plan office at 2 o'clock on a weekday. Rosy-cheeked employees raise beer mugs "
                  "at their desks while a wall clock shows 2:00. A rising sales chart on the wall.",
     "esteem": "A manager hoists a delighted employee high onto a tall pedestal labeled 'STAR', while holding "
