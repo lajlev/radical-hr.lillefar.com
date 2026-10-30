@@ -193,6 +193,20 @@ PAGE = """<!doctype html>
 
   <p class="disclaimer"><b>Disclaimer:</b> These policies are only <em>inspired by</em> the truth. Each one started with something that really happened at work, then got exaggerated until it fit on a poster. No real manager, colleague or HR department is depicted, and none of this is advice. Please don't try it at work.</p>
 
+  <aside class="creator" aria-label="About the creator">
+    <img src="../../img/michael.webp" width="160" height="160" alt="Michael, the creator of Radical HR">
+    <div>
+      <span class="creator-tag">Creator &amp; Designer</span>
+      <h3>Michael <em>(lillefar)</em></h3>
+      <p>Product Designer &amp; Engineer based in Aarhus, Denmark. Shaping digital products, design systems, and satirical dispatches.</p>
+      <nav class="creator-links" aria-label="Creator links">
+        <a href="https://lillefar.dk">🌐 lillefar.dk</a>
+        <a href="https://github.com/lajlev">💻 GitHub</a>
+        <a href="https://www.linkedin.com/in/lajlev">💼 LinkedIn</a>
+      </nav>
+    </div>
+  </aside>
+
   <footer>
     <span>Radical HR · radical-hr.lillefar.com</span>
     <span>Satire. Any resemblance to your workplace is entirely your workplace's fault.</span>
